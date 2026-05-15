@@ -1,4 +1,4 @@
-# claude-camp-w1--
+# claude-camp-w1--practice
 Claude AI 训练营第一周 Python 练习
 # Claude AI 训练营 Week 1 Python 练习
 
